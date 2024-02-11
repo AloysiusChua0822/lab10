@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "79588606825",
+    "firebase_url": "https://primal-abacus-314913-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "primal-abacus-314913",
+    "storage_bucket": "primal-abacus-314913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79588606825:android:87b5fd458d689fe85073f8",
+        "android_client_info": {
+          "package_name": "com.example.lab10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvD9rtrabCcyIJEopRHAXJF6JMSxXu_gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
